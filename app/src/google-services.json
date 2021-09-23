@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6776072053",
+    "project_id": "myaftermarket-a529f",
+    "storage_bucket": "myaftermarket-a529f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6776072053:android:67b2f3356e248c8354553c",
+        "android_client_info": {
+          "package_name": "com.kuria.aftermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6776072053-meb110rq8ki6uh5f9sfcli72grotv5nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuria.aftermarket",
+            "certificate_hash": "7c2775e20fd34f09dd5f730b570f4d56014f07e8"
+          }
+        },
+        {
+          "client_id": "6776072053-tcf9p1i8ek6bkbkg6eigfm3j9eajnfm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUfs8Zu5Q3cVLy98v9zPEpyXX2SlenT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6776072053-tcf9p1i8ek6bkbkg6eigfm3j9eajnfm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
